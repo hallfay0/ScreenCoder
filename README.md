@@ -33,6 +33,10 @@ Michael R. Lyu<sup>2</sup>, Xiangyu Yue<sup>1✉</sup>
 
 It also supports customized modifications, allowing developers and designers to tweak layout and styling with ease. Whether you're prototyping quickly or building pixel-perfect interfaces, ScreenCoder bridges the gap between design and development — just copy, customize, and deploy.
 
+## News
+- We have released the post-training code (SFT + RL) used to align ScreenCoder.
+- We also release ScreenBench (https://huggingface.co/datasets/Leigest/ScreenCoder), a novel benchmark for visual-to-code/web UI generation, including 1000 up-to-date real-world sampled web screenshots and corresponding HTML source code with diverse topics.
+
 ## Huggingface Demo
 - Try our huggingface demo at [Demo](https://huggingface.co/spaces/Jimmyzheng-10/ScreenCoder)
 
